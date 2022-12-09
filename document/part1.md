@@ -10,3 +10,21 @@
 3、内存减少 54%   
 4、<font color=#FF0000>使用 Proxy 代替 defineProperty 实现数据响应式</font>   
 5、<font color=#FF0000>重写虚拟 DOM 的实现和 Tree-Shaking</font>   
+
+### 新增特性
+1、<font color=#FF0000>Composition (组合) API</font>   
+2、setup  
+（1）ref和reactive   
+（2）computed和watch   
+（3）新的生命周期   
+（4）provide与inject  
+（5）...  
+3、新组件   
+（1）Fragment - 文档碎片   
+（2）Teleport - 瞬移组件的位置   
+（3）Suspense - 异步加载组件的 loading 界面  
+4、其它 API 更新   
+（1）全局 API 的修改   
+（2）将原来的全局 API 转移到应用对象   
+（3）模板语法变化   
+
